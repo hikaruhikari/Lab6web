@@ -102,7 +102,12 @@ B. Pertanyaan dan Tugas
 <img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/2b89f62d-437a-4343-9131-76184c51cf7d" />
 <img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/42333e4f-3d5f-491b-b4c8-cdfb6edf69e6" />
 <img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/26873030-3146-4afc-8a2e-eacd850d70bb" />
-<img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/450adafb-20ff-4fa6-81f6-b6ea7f878296" />
-![Uploading Screenshot (274).png…]()
+<img width="1920" height="1080" alt="Screenshot (273)" src=
+   "https://github.com/user-attachments/assets/450adafb-20ff-4fa6-81f6-b6ea7f878296" />
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/20f00632-b6a2-4a0e-aafd-485b4916f533" />
+<img width="1920" height="1080" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/e7892936-ea71-4ce4-96e2-11a5080eb9cd" />
+<img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/f3ca672f-cfb5-467d-81d5-1744fb89d057" />
+
+2. Merefactour praktikum 5 dengan bootstrap grid system yang diperintahkan
 
 

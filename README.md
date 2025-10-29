@@ -11,6 +11,7 @@ Komponen).
 
 
 Pertanyaan dan Tugas
+
 1. Refactor Layout Praktikum 4
 Ambil layout web sederhana dari Praktikum 4. Buat ulang layout tersebut menggunakan
 Bootstrap Grid System.
@@ -33,13 +34,19 @@ control, .form-label, .btn).
 
 3. Tugas: Buat Halaman Portfolio Sederhana
 Buat satu halaman HTML baru (portfolio.html) menggunakan Bootstrap yang berisi:
+
 a. Sebuah Navbar di bagian atas.
+
 b. Sebuah section "Tentang Saya" di dalam .container dengan 1 baris (.row) dan 2 kolom
 (.col):
+
 * Kolom kiri (.col-md-4) berisi foto Anda (gunakan <img> dengan class .img-fluid).
+
 * Kolom kanan (.col-md-8) berisi nama dan deskripsi diri Anda.
+
 c. Sebuah section "Portfolio Saya" di dalam .container dengan 1 baris (.row) dan 3 kolom
 (.col-md-4):
+
 * Setiap kolom berisi satu komponen .card yang merepresentasikan satu proyek (beri
 gambar dummy dan deskripsi singkat).
 
@@ -85,8 +92,16 @@ Untuk nomor 1 sampai 3 dibuktikan dengan 1 screenshot dari vscode
    <img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/e705a4e8-d3f0-4ddb-b21f-1cfa8e957e99" />
 
 B. Pertanyaan dan Tugas
-1. 
 
-
+1. Merefactour praktikum 4 dengan bootstrap grid system yang diperintahkan
+<img width="1920" height="1080" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/4525a47a-125b-42d2-8040-60a6e6afa960" />
+<img width="1920" height="1080" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/5b3836e8-ed22-48d0-aa58-69716dff69e5" />
+<img width="1920" height="1080" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/826d7b67-00b6-445f-b617-876bf021aaa0" />
+<img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/0acf0cfb-00e3-4d95-bb32-bdce1446a29f" />
+<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/dbd7ffb5-d948-4a42-a2f1-1174e2aba126" />
+<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/2b89f62d-437a-4343-9131-76184c51cf7d" />
+<img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/42333e4f-3d5f-491b-b4c8-cdfb6edf69e6" />
+<img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/26873030-3146-4afc-8a2e-eacd850d70bb" />
+<img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/450adafb-20ff-4fa6-81f6-b6ea7f878296" />
 
 

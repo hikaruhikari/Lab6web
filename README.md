@@ -1,4 +1,4 @@
-# Lab6web
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/a0b27102-8b98-4094-8f36-b4d04599d739" /><img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/ee61a226-9e93-41b9-9f23-d5802f5ddcd1" /># Lab6web
 
 Praktikum 6
 
@@ -51,3 +51,33 @@ Laporan Praktikum
 screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
+
+Berikut Penjelasannya:
+A. Intruksi praktikum
+
+Untuk nomor 1 sampai 3 dibuktikan dengan 1 screenshot dari vscode
+<img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/24141251-1850-419f-a455-4dc992b1a2a1" />
+
+4. Langkah-langkah:
+
+   a. Container
+   <img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/4cd2389f-5eb0-4d43-9e42-c2bdd3376c22" />
+
+   b. Grid System (Sistem Grid)
+   <img width="501" height="599" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/13bac628-326c-43fa-9a18-fb813c3ffaa0" />
+
+   c. Komponen: Button (Tombol)
+   <img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/0d4a648d-2c82-4678-ba30-64471c90ffac" />
+
+   d. Komponen: Navbar (Navigasi)
+   <img width="1171" height="575" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/2d0993c7-d604-4286-b589-105cf6038f7b" />
+   <img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/a2d400e0-51bb-4449-848f-05e1458c63fe" />
+
+   e. Komponen: Card (Kartu)
+   
+   f. Komponen: Form (Formulir)
+   
+
+
+
+

@@ -109,5 +109,8 @@ B. Pertanyaan dan Tugas
 <img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/f3ca672f-cfb5-467d-81d5-1744fb89d057" />
 
 2. Merefactour praktikum 5 dengan bootstrap grid system yang diperintahkan
+<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/680abf0e-6408-40c5-a59a-2c0f0005ce69" />
+<img width="1920" height="1080" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/6d3bc7b0-f590-4610-a2d1-ef9a850005df" />
 
+3. Membuat portofolio sederhana
 

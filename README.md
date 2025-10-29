@@ -74,9 +74,14 @@ Untuk nomor 1 sampai 3 dibuktikan dengan 1 screenshot dari vscode
    <img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/a2d400e0-51bb-4449-848f-05e1458c63fe" />
 
    e. Komponen: Card (Kartu)
-   
+   <img width="1920" height="1080" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/02a3dd3e-682f-4b8c-adce-b47ed4d70672" />
+
    f. Komponen: Form (Formulir)
-   
+   <img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/d3bdda0e-328a-4d58-bc4d-58cbf4ea53d2" />
+   Hasilnya da di bagian paling bawah
+
+B. Pertanyaan dan Tugas
+1. 
 
 
 

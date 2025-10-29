@@ -15,7 +15,7 @@ Pertanyaan dan Tugas
 Ambil layout web sederhana dari Praktikum 4. Buat ulang layout tersebut menggunakan
 Bootstrap Grid System.
 
-○ Gunakan <nav> Bootstrap untuk bagian navigasi
+○ Gunakan < nav > Bootstrap untuk bagian navigasi
 
 ○ Gunakan class .row dan .col-md-8 untuk main content dan .col-md-4 untuk sidebar
 

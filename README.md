@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/a0b27102-8b98-4094-8f36-b4d04599d739" /><img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/ee61a226-9e93-41b9-9f23-d5802f5ddcd1" /># Lab6web
+# Lab6web
 
 Praktikum 6
 

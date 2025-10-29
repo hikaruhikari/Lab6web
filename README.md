@@ -28,7 +28,6 @@ kolom)
 
 2. Refactor Form Praktikum 5
 Ambil salah satu form dari Praktikum 5 (misalnya Form Input 23atau Form Button 24).
-
 Buat ulang form tersebut agar terlihat rapi menggunakan class-class form Bootstrap (.form-
 control, .form-label, .btn).
 

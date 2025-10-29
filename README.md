@@ -80,6 +80,10 @@ Untuk nomor 1 sampai 3 dibuktikan dengan 1 screenshot dari vscode
    <img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/d3bdda0e-328a-4d58-bc4d-58cbf4ea53d2" />
    Hasilnya da di bagian paling bawah
 
+   Berikut hasilnya dengan bootstrap
+   <img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/7ac2a5e4-8d48-4331-9be8-d19000e8adeb" />
+   <img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/e705a4e8-d3f0-4ddb-b21f-1cfa8e957e99" />
+
 B. Pertanyaan dan Tugas
 1. 
 

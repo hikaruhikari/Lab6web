@@ -71,6 +71,7 @@ Untuk nomor 1 sampai 3 dibuktikan dengan 1 screenshot dari vscode
    <img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/4cd2389f-5eb0-4d43-9e42-c2bdd3376c22" />
 
    b. Grid System (Sistem Grid)
+
    <img width="501" height="599" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/13bac628-326c-43fa-9a18-fb813c3ffaa0" />
 
    c. Komponen: Button (Tombol)

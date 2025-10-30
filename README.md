@@ -114,3 +114,13 @@ B. Pertanyaan dan Tugas
 
 3. Membuat portofolio sederhana
 
+<img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/ae8a4c2a-14fd-4bbd-821d-ce0979ee9906" />
+<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/7acc3d15-bb1d-45b0-b032-3e620b8197a0" />
+<img width="1920" height="1080" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/046342f7-706b-433d-8083-964a94707c7a" />
+<img width="1920" height="1080" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/cc8d006f-8f30-474e-8d23-36a7a7af6c72" />
+<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/aa305c98-06d3-4ae1-8ee6-651135f46970" />
+<img width="1920" height="1080" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/ec6a4956-f9a8-4bad-b85d-9a310cde8a8c" />
+<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/77b449c2-f924-4566-b635-ec1c55037379" />
+
+
+Laporan paraktikum sudah semua dilaksanakan sekian terima kasih

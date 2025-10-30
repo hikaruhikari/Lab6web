@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Validasi Form</title>
+        <style>
+            .error {
+                color: red;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+    </head>
+    <body>
+        <h1>Form Pendaftaran</h1>
+        <div class="mb-3">
+            <label for="namaInput" class="form-label">Nama</label>
+            <input type="nama" class="form-control" id="namaInput"
+            placeholder="nama lengkap">
+        </div>
+        <div class="mb-3">
+            <label for="emailInput" class="form-label">Email</label>
+            <input type="email" class="form-control" id="emailInput"
+            placeholder="nama@contoh.com">
+        </div>
+        <button type="submit" class="btn btn-primary">Kirim</button>
+        <script>
+        function validateForm() {
+            let nama = document.getElementById("nama").value;
+            let email = document.getElementById("email").value;
+            let isValid = true;
+
+                        // Reset pesan kesalahan
+            document.getElementById("error-nama").innerText = "";
+            document.getElementById("error-email").innerText = "";
+
+            // Validasi Nama
+            if (nama == "") {
+                document.getElementById("error-nama").innerText = "Nama tidak boleh kosong";
+                isValid = false;
+            }
+
+            // Validasi Email
+            let emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+            if (email == "") {
+                document.getElementById("error-email").innerText = "Email tidak boleh kosong";
+                isValid = false;
+            } else if (!emailPattern.test(email)) {
+                document.getElementById("error-email").innerText = "Format email tidak valid";
+                isValid = false;
+            }
+
+            return isValid; // Mengembalikan true jika valid, false jika tidak
+            }
+        </script>
+
+    </body>
+</html>
